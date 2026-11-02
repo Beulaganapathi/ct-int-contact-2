@@ -1,0 +1,945 @@
+{
+ "office": "OFFICE OF THE JOINT COMMISSIONER (ST)",
+ "division": "Chengalpattu (Intelligence) Division, Chengalpattu - 603 101",
+ "asOn": "26.10.2026",
+ "cadres": [
+  {
+   "name": "State Tax Officer",
+   "short": "STO"
+  },
+  {
+   "name": "Deputy State Tax Officer",
+   "short": "DSTO"
+  },
+  {
+   "name": "Assistant",
+   "short": "Assistant"
+  },
+  {
+   "name": "Junior Assistant",
+   "short": "Jr Assistant"
+  },
+  {
+   "name": "Steno Typist",
+   "short": "Steno Typist"
+  },
+  {
+   "name": "Typist",
+   "short": "Typist"
+  },
+  {
+   "name": "RC",
+   "short": "RC"
+  },
+  {
+   "name": "OA",
+   "short": "OA"
+  },
+  {
+   "name": "Driver",
+   "short": "Driver"
+  },
+  {
+   "name": "Assistant Commissioner",
+   "short": "AC"
+  },
+  {
+   "name": "Deputy Commissioner(ST)",
+   "short": "DC"
+  },
+  {
+   "name": "Joint Commissioner(ST)",
+   "short": "JC"
+  }
+ ],
+ "staff": [
+  {
+   "sl": 1,
+   "group": "Inspection Group I",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "P. AnbuChelvi",
+   "mobile": "9965687878"
+  },
+  {
+   "sl": 2,
+   "group": "Inspection Group I",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "L. Premkumar",
+   "mobile": "9498055940"
+  },
+  {
+   "sl": 3,
+   "group": "Inspection Group I",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "N. Gayathiri Devi",
+   "mobile": "9025361557"
+  },
+  {
+   "sl": 4,
+   "group": "Inspection Group II",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "J. Ezhilan",
+   "mobile": "8667672454"
+  },
+  {
+   "sl": 5,
+   "group": "Inspection Group II",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "K. Premkumar",
+   "mobile": "9840106173"
+  },
+  {
+   "sl": 6,
+   "group": "Inspection Group II",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "P. Megala",
+   "mobile": "9943985422"
+  },
+  {
+   "sl": 7,
+   "group": "Inspection Group III",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "A. Gunasekaran",
+   "mobile": "9003744755"
+  },
+  {
+   "sl": 8,
+   "group": "Inspection Group III",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "M. Selvam",
+   "mobile": "9597550666"
+  },
+  {
+   "sl": 9,
+   "group": "Inspection Group III",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "R. Gandhimathi",
+   "mobile": "8072805698"
+  },
+  {
+   "sl": 10,
+   "group": "Inspection Group IV",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "A. Varadaraj",
+   "mobile": "9841319037"
+  },
+  {
+   "sl": 11,
+   "group": "Inspection Group IV",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "S. Mohammed Azharuddin",
+   "mobile": "9150556345"
+  },
+  {
+   "sl": 12,
+   "group": "Inspection Group IV",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "E. Malarvizhi",
+   "mobile": "9566393295"
+  },
+  {
+   "sl": 13,
+   "group": "Inspection Group V",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "T. Selvam Johnson",
+   "mobile": "9994590114"
+  },
+  {
+   "sl": 14,
+   "group": "Inspection Group V",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "R. Sujitha",
+   "mobile": "6383077906"
+  },
+  {
+   "sl": 15,
+   "group": "Inspection Group V",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "G. Revathy",
+   "mobile": "9842503750"
+  },
+  {
+   "sl": 16,
+   "group": "Inspection Group VI",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "R. Sudhakar",
+   "mobile": "9894346293"
+  },
+  {
+   "sl": 17,
+   "group": "Inspection Group VI",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "S. Maheswari",
+   "mobile": "9629460818"
+  },
+  {
+   "sl": 18,
+   "group": "Inspection Group VI",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "K. Vijayarajan",
+   "mobile": "9786724725"
+  },
+  {
+   "sl": 19,
+   "group": "Inspection Group VII",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "M. Rajkumar",
+   "mobile": "9710076150"
+  },
+  {
+   "sl": 20,
+   "group": "Inspection Group VII",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "A. Vetrivel",
+   "mobile": "9677547542"
+  },
+  {
+   "sl": 21,
+   "group": "Inspection Group VII",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "R. Sharmila",
+   "mobile": "9585398456"
+  },
+  {
+   "sl": 22,
+   "group": "Inspection Group VIII",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "R. Muthukumar",
+   "mobile": "6369401381"
+  },
+  {
+   "sl": 23,
+   "group": "Inspection Group VIII",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "S. Jayadevi",
+   "mobile": "9790092268"
+  },
+  {
+   "sl": 24,
+   "group": "Inspection Group VIII",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "D. Meganathan",
+   "mobile": "7373979673"
+  },
+  {
+   "sl": 25,
+   "group": "Inspection Group IX",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "R. Kalaimathi",
+   "mobile": "9786910064"
+  },
+  {
+   "sl": 26,
+   "group": "Inspection Group IX",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "E. Parinathan",
+   "mobile": "7338906807"
+  },
+  {
+   "sl": 27,
+   "group": "Inspection Group IX",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "T. Kalaiselvan",
+   "mobile": "7845336590"
+  },
+  {
+   "sl": 28,
+   "group": "Inspection Group X",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "M. Ananth",
+   "mobile": "8220185958"
+  },
+  {
+   "sl": 29,
+   "group": "Inspection Group X",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "N. Poovizhiselvi",
+   "mobile": "8778124440"
+  },
+  {
+   "sl": 30,
+   "group": "Inspection Group X",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "T. Dhatshayani",
+   "mobile": "9952123579"
+  },
+  {
+   "sl": 31,
+   "group": "Data Analytical Unit I",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer 1",
+   "name": "B. Sudha",
+   "mobile": "7550112864"
+  },
+  {
+   "sl": 32,
+   "group": "Data Analytical Unit I",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "V. Mangaiyarkkarasi",
+   "mobile": "9840040691"
+  },
+  {
+   "sl": 33,
+   "group": "Data Analytical Unit I",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "M. Vijay Perumal (Direct)",
+   "mobile": "9442609799"
+  },
+  {
+   "sl": 34,
+   "group": "Data Analytical Unit II",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer 2",
+   "name": "G. Aruldoss",
+   "mobile": "8056284360"
+  },
+  {
+   "sl": 35,
+   "group": "Data Analytical Unit II",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "S. Singaravelu",
+   "mobile": "9150289020"
+  },
+  {
+   "sl": 36,
+   "group": "Data Analytical Unit II",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "T. Jeganathan (Direct)",
+   "mobile": "7373381647"
+  },
+  {
+   "sl": 37,
+   "group": "Data Analytical Unit III",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer 3",
+   "name": "A. Chellammal",
+   "mobile": "9842779432"
+  },
+  {
+   "sl": 38,
+   "group": "Data Analytical Unit III",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "M. Anandababu (Direct)",
+   "mobile": "8508121031"
+  },
+  {
+   "sl": 39,
+   "group": "Data Analytical Unit III",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "R. Karthick (Direct)",
+   "mobile": "6380855479"
+  },
+  {
+   "sl": 40,
+   "group": "Review Wing I",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer 1",
+   "name": "T. Jayalakshmi",
+   "mobile": "9445427351"
+  },
+  {
+   "sl": 41,
+   "group": "Review Wing I",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "M. L. Magizhmani (Direct)",
+   "mobile": "8525913891"
+  },
+  {
+   "sl": 42,
+   "group": "Review Wing I",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "V. Ashok Kumar (Direct)",
+   "mobile": "9524530909"
+  },
+  {
+   "sl": 43,
+   "group": "Review Wing II",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer 2",
+   "name": "R. Poonguzhali",
+   "mobile": "7373833660"
+  },
+  {
+   "sl": 44,
+   "group": "Review Wing II",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "K. B. Renuka",
+   "mobile": "9790214263"
+  },
+  {
+   "sl": 45,
+   "group": "Review Wing II",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "M. Saisuman (Direct)",
+   "mobile": "9087151150"
+  },
+  {
+   "sl": 46,
+   "group": "Legal & Adjudication",
+   "cadre": "State Tax Officer",
+   "post": "State Tax Officer",
+   "name": "V. Kumaran",
+   "mobile": "9840913977"
+  },
+  {
+   "sl": 47,
+   "group": "Legal & Adjudication",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "S. Sumanraj (Direct)",
+   "mobile": "9688444086"
+  },
+  {
+   "sl": 48,
+   "group": "Legal & Adjudication",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "M. Vinuvarsath (Direct)",
+   "mobile": "9361788679"
+  },
+  {
+   "sl": 49,
+   "group": "Manager",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer",
+   "name": "K. L. Ramesh Babu",
+   "mobile": "9952122324"
+  },
+  {
+   "sl": 50,
+   "group": "General Duty",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 1",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 51,
+   "group": "General Duty",
+   "cadre": "Deputy State Tax Officer",
+   "post": "Deputy State Tax Officer - 2",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 66,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B7 Thapals and Record Room Maintance",
+   "name": "Sathya S (Direct)",
+   "mobile": "8610950083"
+  },
+  {
+   "sl": 67,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B6 DAU unit",
+   "name": "Mangai M (Direct)",
+   "mobile": "9361324848"
+  },
+  {
+   "sl": 68,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B - 5 Bills Contingence assist",
+   "name": "Jaysurya S (Direct)",
+   "mobile": "8489178038"
+  },
+  {
+   "sl": 78,
+   "group": "Steno-Typist Grade III",
+   "cadre": "Steno Typist",
+   "post": "Steno Typist-1",
+   "name": "Kiruthiga T (Direct)",
+   "mobile": "8838554031"
+  },
+  {
+   "sl": 137,
+   "group": "Steno-Typist Grade III",
+   "cadre": "Steno Typist",
+   "post": "Steno Typist-II",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 138,
+   "group": "Steno-Typist Grade III",
+   "cadre": "Steno Typist",
+   "post": "Steno Typist-III",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 81,
+   "group": "Typist",
+   "cadre": "Typist",
+   "post": "Typist-1",
+   "name": "Renugadevi M (Direct)",
+   "mobile": "9080412273"
+  },
+  {
+   "sl": 82,
+   "group": "Typist",
+   "cadre": "Typist",
+   "post": "Typist-II",
+   "name": "Uvalakshmi V (Direct)",
+   "mobile": "8637670105"
+  },
+  {
+   "sl": 83,
+   "group": "Typist",
+   "cadre": "Typist",
+   "post": "Typist-3",
+   "name": "Chinnaraj C (Direct)",
+   "mobile": "8667010592"
+  },
+  {
+   "sl": 139,
+   "group": "Typist",
+   "cadre": "Typist",
+   "post": "Typist-4",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 140,
+   "group": "Typist",
+   "cadre": "Typist",
+   "post": "Typist-5",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 141,
+   "group": "Typist",
+   "cadre": "Typist",
+   "post": "Typist-6",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 142,
+   "group": "Typist",
+   "cadre": "Typist",
+   "post": "Typist-7",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 88,
+   "group": "Record Clerk",
+   "cadre": "RC",
+   "post": "Record Clerk-1",
+   "name": "Jaganathan D",
+   "mobile": "9444897845"
+  },
+  {
+   "sl": 135,
+   "group": "Record Clerk",
+   "cadre": "RC",
+   "post": "Record Clerk-2",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 136,
+   "group": "Record Clerk",
+   "cadre": "RC",
+   "post": "Record Clerk-3",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 89,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA - 1",
+   "name": "Ponnarasu P",
+   "mobile": "9941348567"
+  },
+  {
+   "sl": 91,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA - 3",
+   "name": "Vijayakumar D",
+   "mobile": "9444949578"
+  },
+  {
+   "sl": 92,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA - 2",
+   "name": "Jagadeesh D",
+   "mobile": "9994594675"
+  },
+  {
+   "sl": 129,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA-4",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 130,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA-5",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 131,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA-6",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 132,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA-7",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 133,
+   "group": "Office Assistant",
+   "cadre": "OA",
+   "post": "OA-8",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 99,
+   "group": "Driver",
+   "cadre": "Driver",
+   "post": "",
+   "name": "Arumugam M",
+   "mobile": "9677135191"
+  },
+  {
+   "sl": 100,
+   "group": "Driver",
+   "cadre": "Driver",
+   "post": "Driver",
+   "name": "Gnanasekar L",
+   "mobile": "8056217759"
+  },
+  {
+   "sl": 101,
+   "group": "Driver",
+   "cadre": "Driver",
+   "post": "Driver",
+   "name": "Bilal Sharif A",
+   "mobile": "9941133562"
+  },
+  {
+   "sl": 102,
+   "group": "Driver",
+   "cadre": "Driver",
+   "post": "Driver",
+   "name": "Murugan M",
+   "mobile": "9444295579"
+  },
+  {
+   "sl": 103,
+   "group": "Driver",
+   "cadre": "Driver",
+   "post": "Driver",
+   "name": "Annamalai M",
+   "mobile": "9841616169"
+  },
+  {
+   "sl": 104,
+   "group": "Driver",
+   "cadre": "Driver",
+   "post": "Driver",
+   "name": "Jagan M",
+   "mobile": "9941337572"
+  },
+  {
+   "sl": 105,
+   "group": "Driver",
+   "cadre": "Driver",
+   "post": "Driver",
+   "name": "Muniyandi S",
+   "mobile": "9677104313"
+  },
+  {
+   "sl": 106,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A1-Establishment",
+   "name": "Kanchana K",
+   "mobile": "9952352953"
+  },
+  {
+   "sl": 107,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A2-Establishment A1 Additional Charge",
+   "name": "Ganapathi P",
+   "mobile": "9994093047"
+  },
+  {
+   "sl": 108,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A3-Bills",
+   "name": "Kaviyarasan K",
+   "mobile": "9894541985"
+  },
+  {
+   "sl": 109,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A4-Petitions",
+   "name": "Karthikeyan S S",
+   "mobile": "9994469514"
+  },
+  {
+   "sl": 110,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A5-Inspection relates South Division",
+   "name": "Maheswari V",
+   "mobile": "8220724436"
+  },
+  {
+   "sl": 111,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A6-Staticics",
+   "name": "Ramasamy M",
+   "mobile": "8220304636"
+  },
+  {
+   "sl": 112,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A7-RTI Petitions ,Thappal dispatches",
+   "name": "Murali Krishnan R",
+   "mobile": "9443627697"
+  },
+  {
+   "sl": 113,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A-8 DATA wing (deputed to CCT computer center  work assinged toMrs.K.Thillothamma)",
+   "name": "Sundarrajan V",
+   "mobile": "9884299610"
+  },
+  {
+   "sl": 114,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A9-Adjudication,Writ work",
+   "name": "Ramya T",
+   "mobile": "6385124647"
+  },
+  {
+   "sl": 115,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A-10 Review Section",
+   "name": "Kamal N (Direct)",
+   "mobile": "9944215512"
+  },
+  {
+   "sl": 116,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A11-Rectification,AAR",
+   "name": "Padmini R",
+   "mobile": "6383463805"
+  },
+  {
+   "sl": 117,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A12-Vehicles Related",
+   "name": "Gnanamani J",
+   "mobile": "9751986924"
+  },
+  {
+   "sl": 118,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A13- BT Bill Trader",
+   "name": "Shamsath R (Direct)",
+   "mobile": "9952301895"
+  },
+  {
+   "sl": 119,
+   "group": "Assistant",
+   "cadre": "Assistant",
+   "post": "A14-Inspection chengalpattu related, Appeal review and revision daily report",
+   "name": "Arjunraj S",
+   "mobile": "9087829421"
+  },
+  {
+   "sl": 120,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B2",
+   "name": "Sasikumar G",
+   "mobile": "9042826293"
+  },
+  {
+   "sl": 121,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B3-Establishment",
+   "name": "Priya S (Direct)",
+   "mobile": "8778985366"
+  },
+  {
+   "sl": 122,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B4-Review Wing",
+   "name": "Dharani B (Direct)",
+   "mobile": "9515098076"
+  },
+  {
+   "sl": 123,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B1",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 124,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B8",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 125,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B9",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 126,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B10",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 127,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B11",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 128,
+   "group": "Junior Assistant",
+   "cadre": "Junior Assistant",
+   "post": "B12",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 143,
+   "group": "AC",
+   "cadre": "Assistant Commissioner",
+   "post": "",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 144,
+   "group": "AC",
+   "cadre": "Assistant Commissioner",
+   "post": "",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 145,
+   "group": "AC",
+   "cadre": "Assistant Commissioner",
+   "post": "",
+   "name": "Vacant",
+   "mobile": ""
+  },
+  {
+   "sl": 146,
+   "group": "DC(ST)",
+   "cadre": "Deputy Commissioner(ST)",
+   "post": "Deputy Commissioner -I",
+   "name": "Rajasekar N",
+   "mobile": "9791175510"
+  },
+  {
+   "sl": 147,
+   "group": "DC(ST)",
+   "cadre": "Deputy Commissioner(ST)",
+   "post": "Deputy Commissioner(ST)-II",
+   "name": "Jaya S",
+   "mobile": "9380753965"
+  },
+  {
+   "sl": 148,
+   "group": "JC(ST)",
+   "cadre": "Joint Commissioner(ST)",
+   "post": "JC(ST)",
+   "name": "UshaN",
+   "mobile": "9443103226"
+  }
+ ]
+}
