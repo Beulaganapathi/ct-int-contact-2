@@ -948,7 +948,21 @@ fun BroadcastDialog(dir: Directory, onDismiss: () -> Unit) {
                         open(Intent(Intent.ACTION_SENDTO, Uri.parse("smsto:$to")).apply {
                             putExtra("sms_body", message)
                         })
-                    }) { Text("SMS to all at once") }
+                    }) { Text("SMS to all at once") }                     OutlinedButton(enabled = message.isNotBlank(), modifier = Modifier.fillMaxWidth(), onClick = {
+                        val send = Intent(Intent.ACTION_SEND).apply {
+                            type = "text/plain"
+                            putExtra(Intent.EXTRA_TEXT, message)
+                        }
+                        try {
+                            context.startActivity(Intent(send).setPackage("com.whatsapp"))
+                        } catch (e: Exception) {
+                            try {
+                                context.startActivity(Intent(send).setPackage("com.whatsapp.w4b"))
+                            } catch (e2: Exception) {
+                                open(Intent.createChooser(send, "Send message"))
+                            }
+                        }
+                    }) { Text("WhatsApp group (1 tap)") }
                     OutlinedButton(enabled = people.isNotEmpty(), modifier = Modifier.fillMaxWidth(), onClick = {
                         clipboard.setText(AnnotatedString(people.joinToString(", ") { it.mobile }))
                         Toast.makeText(context, "${people.size} numbers copied", Toast.LENGTH_SHORT).show()
