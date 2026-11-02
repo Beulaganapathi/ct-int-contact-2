@@ -457,8 +457,8 @@ const val ROLE_ADMIN = 2
  * ADMIN_PIN_DEFAULT : only for you; opens the app with Add / Edit / Delete.
  * Each is 4 to 6 digits and the two must be different.
  */
-private const val OPEN_PIN_DEFAULT = "2013"
-private const val ADMIN_PIN_DEFAULT = "2017"
+private const val OPEN_PIN_DEFAULT = "1234"
+private const val ADMIN_PIN_DEFAULT = "5678"
 
 /** The app locks itself again if it stayed in the background longer than this. */
 const val AUTO_LOCK_MS = 5 * 60 * 1000L
@@ -677,7 +677,7 @@ private fun PinField(value: String, onChange: (String) -> Unit, label: String) {
  * >>> CHANGE THIS TEXT TO ANY LONG SECRET OF YOUR OWN BEFORE YOU SHARE THE APP <<<
  * Never tell it to anyone. Activation codes are made from it.
  */
-private const val ACTIVATION_SECRET = "My Personal Use Only-2026"
+private const val ACTIVATION_SECRET = "ct-int-contact-CHANGE-THIS-LONG-SECRET-2026"
 
 object Activation {
     private const val PREFS = "activation"
@@ -948,7 +948,8 @@ fun BroadcastDialog(dir: Directory, onDismiss: () -> Unit) {
                         open(Intent(Intent.ACTION_SENDTO, Uri.parse("smsto:$to")).apply {
                             putExtra("sms_body", message)
                         })
-                    }) { Text("SMS to all at once") }                     OutlinedButton(enabled = message.isNotBlank(), modifier = Modifier.fillMaxWidth(), onClick = {
+                    }) { Text("SMS to all at once") }
+                    OutlinedButton(enabled = message.isNotBlank(), modifier = Modifier.fillMaxWidth(), onClick = {
                         val send = Intent(Intent.ACTION_SEND).apply {
                             type = "text/plain"
                             putExtra(Intent.EXTRA_TEXT, message)
